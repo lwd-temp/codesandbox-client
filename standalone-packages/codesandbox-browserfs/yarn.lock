@@ -9,10 +9,10 @@
   dependencies:
     "@types/glob" "*"
 
-"@types/async@2.0.31":
-  version "2.0.31"
-  resolved "https://registry.yarnpkg.com/@types/async/-/async-2.0.31.tgz#26842998c4425c19aea32f774fc67e8d28ecd206"
-  integrity sha512-msYLLdsXvq/or+0yi2mFDaash5xDJ5qk5Zqwigq+3cXnaoZ6KcbQ7t1r2OCJsry+KwzmC5I8KqqCRvafgipprQ==
+"@types/async@3.2.24":
+  version "3.2.24"
+  resolved "https://registry.yarnpkg.com/@types/async/-/async-3.2.24.tgz#3a96351047575bbcf2340541b2d955a35339608f"
+  integrity sha512-8iHVLHsCCOBKjCF2KwFe0p9Z3rfM9mL+sSP8btyR5vTjJRAqpBYD28/ZLgXPf0pjG1VxOvtCV/BgXkQbpSe8Hw==
 
 "@types/body-parser@*":
   version "1.19.4"
@@ -693,12 +693,17 @@ async@1.x:
   resolved "https://registry.yarnpkg.com/async/-/async-1.5.2.tgz#ec6a61ae56480c0c3cb241c95618e20892f9672a"
   integrity sha512-nSVgobk4rv61R9PUSDtYt7mPVB2olxNR5RWJcAsH676/ef11bUZwvu7+RGYrYauVdDPcO519v68wRhXQtxsV9w==
 
-async@^2.0.0, async@^2.5.0, async@^2.6.4, async@~2.6.1:
+async@^2.0.0, async@^2.5.0, async@^2.6.4:
   version "2.6.4"
   resolved "https://registry.yarnpkg.com/async/-/async-2.6.4.tgz#706b7ff6084664cd7eae713f6f965433b5504221"
   integrity sha512-mzo5dfJYwAn29PeiJ0zvwTo04zj8HDJj0Mn8TD7sno7q12prdbnasKJHhkm2c1LgrhlJ0teaea8860oxi51mGA==
   dependencies:
     lodash "^4.17.14"
+
+async@~3.2.5:
+  version "3.2.5"
+  resolved "https://registry.yarnpkg.com/async/-/async-3.2.5.tgz#ebd52a8fdaf7a2289a24df399f8d8485c8a46b66"
+  integrity sha512-baNZyqaaLhyLVKm/DlvdW051MSgO6b8eVfIezl9E5PqWxFgzLm/wQntEW4zOytVburDEr0JlALEpdOFwvErLsg==
 
 atob@^2.1.2:
   version "2.1.2"
